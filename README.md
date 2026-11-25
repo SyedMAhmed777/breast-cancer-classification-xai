@@ -1,4 +1,4 @@
-# Breast Cancer Classification
+# Breast Cancer Classification & XAI
 
 A simple machine learning project that uses Logistic Regression to classify breast cancer samples as benign or malignant using the Wisconsin Diagnostic Breast Cancer dataset.
 
